@@ -1,15 +1,15 @@
 # Table of Content
-- [Table of Content](#table-of-content)
-  - [Mô hình phát triển phần mềm](#mô-hình-phát-triển-phần-mềm)
-    - [Mô hình thác nước (Waterfall model)](#mô-hình-thác-nước-waterfall-model)
-    - [Mô hình tăng trưởng (Incremental Model)](#mô-hình-tăng-trưởng-incremental-model)
-    - [Mô hình Agile](#mô-hình-agile)
-    - [Mô hình tiếp cận lặp (Iterative Model)](#mô-hình-tiếp-cận-lặp-iterative-model)
-    - [Mô hình chữ V (V model)](#mô-hình-chữ-v-v-model)
-    - [Mô hình Scrum](#mô-hình-scrum)
-    - [Mô hình RAD](#mô-hình-rad)
-    - [So sánh mô hình Scrum và mô hình waterfall, Sprial](#so-sánh-mô-hình-scrum-và-mô-hình-waterfall-sprial)
-    - [So sánh Scrum vs Agile](#so-sánh-scrum-vs-agile)
+
+- [Mô hình phát triển phần mềm](#mô-hình-phát-triển-phần-mềm)
+  - [Mô hình thác nước (Waterfall model)](#mô-hình-thác-nước-waterfall-model)
+  - [Mô hình tăng trưởng (Incremental Model)](#mô-hình-tăng-trưởng-incremental-model)
+  - [Mô hình Agile](#mô-hình-agile)
+  - [Mô hình tiếp cận lặp (Iterative Model)](#mô-hình-tiếp-cận-lặp-iterative-model)
+  - [Mô hình chữ V (V model)](#mô-hình-chữ-v-v-model)
+  - [Mô hình Scrum](#mô-hình-scrum)
+  - [Mô hình RAD](#mô-hình-rad)
+  - [So sánh Scrum và Waterfall](#so-sánh-scrum-và-waterfall)
+  - [So sánh Scrum vs Agile](#so-sánh-scrum-vs-agile)
 
 ## Mô hình phát triển phần mềm
 
@@ -423,7 +423,7 @@ Mô hình RAD có thể được áp dụng thành công cho các dự án:
 
 ***
 
-### So sánh mô hình Scrum và mô hình waterfall, Sprial
+### So sánh Scrum và Waterfall
 
 |**Đặc điểm**|**Waterfall**|**Spiral**|**Scrum**|
 | :- | :- | :- | :- |
