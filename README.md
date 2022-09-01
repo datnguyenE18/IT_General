@@ -1,2 +1,2 @@
 # IT_General
-Kiến thức IT chung, tổng quát
+Kiến thức IT tổng quát
