@@ -7,7 +7,7 @@
   - 4. Hệ điều hành
   - 5. An toàn thông tin
 
-- **Interviews:**
+- **Interview:**
 
   - Git, SQL, Data Struct
   - Database: Cách tạo bảng, Oracle, MongoDB, các cách đánh index mongoDB, truy vấn, so sánh Truncate và delete, ALERT có ý nghĩa gì…
