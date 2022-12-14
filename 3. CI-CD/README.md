@@ -72,6 +72,9 @@
 
 ![image](https://user-images.githubusercontent.com/43572616/187832210-3f5afccc-c4dc-4ccf-ae51-90e18dec415b.png)
 
+![1](https://user-images.githubusercontent.com/43572616/207554476-5d726066-bdd0-4e2f-9a49-61b808d00287.png)
+
+
 - **Bước 1:** Tạo mới Repository. Nhất định phải có branch default là master và dev.
 - **Bước 2:** Các thành viên tham gia sẽ thêm tính năng lên branch dev. Ngoại trừ người sở hữu.
 - **Bước 3**: Chương trình CI/CD bắt đầu tiến hành chu trình kiểm tra code một cách tự động. Nếu vượt qua quá trình kiểm tra thành công sẽ triển khai trên server beta.
