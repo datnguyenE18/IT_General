@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-service
+spec:
+  # NodePort là loại service phù hợp nhất cho Minikube,
+  # nó sẽ mở 1 cổng trên IP của máy ảo để truy cập
+  type: NodePort
+  selector:
+    app: nginx
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
